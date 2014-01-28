@@ -1,0 +1,6 @@
+body{font-size:62.5%;font-family:"Raleway",Arial;}
+body #container{padding:0 10px;}
+body #container h1{color:#b09aff;font-weight:200}
+body #container h2{color:#595959;font-weight:300;font-size:1.5em;line-height:1.5em}
+body #container .box-relative{margin:10px 0;position:relative;height:7px;background:#b09aff;width:100%;}
+body #container .box-relative .box{position:absolute;background:#dadada;right:0;top:0;bottom:0;transition:width 5s}
